@@ -1,0 +1,9 @@
+body {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+#list-link {
+    color: rgb(0, 0, 121);
+    text-decoration: underline;
+}
